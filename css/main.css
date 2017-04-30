@@ -186,7 +186,7 @@ header .social li:first-child{
   position: absolute;
   max-width: 550px;
   margin-left: 80px;
-  top: 50%;
+  top: 44%;
   transform:translate(0,-50%);
   -webkit-transform:translate(0,-50%);
   -moz-transform:translate(0,-50%);
@@ -357,7 +357,7 @@ a.app_link{
 /*  About section   */
 
 .about{
-  padding: 100px 0;
+  padding: 75px 0 30px;
 }
 
 .about .iphone{
@@ -450,7 +450,7 @@ a.app_link{
 
 .my_skills {
   width: 100%;
-  padding: 0px 0 20px 0;
+  padding: 0px 0 2px 0;
   background-color: #41c17d;
   background-image: -moz-linear-gradient(bottom, #47ad76 0%, #47ad76 0.27%, #40c27d 99.46%, #40c27d 100%);
   background-image: -o-linear-gradient(bottom, #47ad76 0%, #47ad76 0.27%, #40c27d 99.46%, #40c27d 100%);
@@ -497,7 +497,7 @@ a.app_link{
 /*  Testimonials section   */
 
 .testimonials{
-  padding: 100px 0;
+  padding: 50px 0 10px 0;
 }
 
 .testimonials .testimonials_list{
